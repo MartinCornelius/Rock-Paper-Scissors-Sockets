@@ -1,5 +1,5 @@
 # Rock Paper Scissors with Sockets
----
+
 Simple rock paper scissors console game made with python. 
 Using sockets to make it a multiplayer game.
 
